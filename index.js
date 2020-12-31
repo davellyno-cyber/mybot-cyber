@@ -38,8 +38,8 @@ const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
             + 'VERSION:3.0\n' // NGAPAIN LAGI KALO GA MAU NUMPANG NAMA DOANG XIXIXIXI
             + 'FN:CO NOEERBOT\n' // MENDING LU TOBAT SU!
             + 'ORG:Creator NOEERBOT;\n' // KASIH CREDITS GUA SU!!!
-            + 'TEL;type=CELL;type=VOICE;waid=6285722553839:+62 857-2255-3839\n' // JANGAN KEK BABI SU
-            + 'END:VCARD' // ARIS187 ID
+            + 'TEL;type=CELL;type=VOICE;waid=6288291819839:+62 882-9181-9839\n' // JANGAN KEK BABI SU
+            + 'END:VCARD' // Davellyno
 prefix = '!'
 const speed = require('performance-now')         
 blocked = []            
